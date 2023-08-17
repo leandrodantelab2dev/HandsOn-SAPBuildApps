@@ -1,5 +1,7 @@
 ## Exercicio 5 - 
 
+NUMBER(params.idproduct)
+
 ![MDK](images/img1.png)
 ![MDK](images/img2.png)
 ![MDK](images/img3.png)
@@ -32,5 +34,5 @@
 ![MDK](images/img30.png)
 ![MDK](images/img31.png)
 
-NUMBER(params.idproduct)
+
 
