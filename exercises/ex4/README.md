@@ -14,6 +14,12 @@
 ![MDK](images/img12.png)
 ![MDK](images/img13.png)
 ![MDK](images/img14.png)
+
+```
+STRING(repeated.current.ID)
+```
+
 ![MDK](images/img15.png)
 
-STRING(repeated.current.ID)
+## Próximo Passo:
+[Exercício 05 - Criação da Detail Page](/exercises/ex5/README.md)

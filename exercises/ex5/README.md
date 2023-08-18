@@ -1,6 +1,4 @@
-## Exercicio 5 - 
-
-NUMBER(params.idproduct)
+## Exercicio 5 -  Criação da Detail Page
 
 ![MDK](images/img1.png)
 ![MDK](images/img2.png)
@@ -8,6 +6,11 @@ NUMBER(params.idproduct)
 ![MDK](images/img4.png)
 ![MDK](images/img5.png)
 ![MDK](images/img6.png)
+
+```
+NUMBER(params.idproduct)
+```
+
 ![MDK](images/img7.png)
 ![MDK](images/img8.png)
 ![MDK](images/img9.png)
@@ -34,5 +37,5 @@ NUMBER(params.idproduct)
 ![MDK](images/img30.png)
 ![MDK](images/img31.png)
 
-
-
+## Próximo Passo:
+[Exercício 06 - Criação da Funcionalidade de Busca por QR Code](/exercises/ex6/README.md)

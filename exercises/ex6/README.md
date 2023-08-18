@@ -1,4 +1,4 @@
-## Exercício 6 - Criação da Funcionalidade de Busca por QR Code
+# Exercício 6 - Criação da Funcionalidade de Busca por QR Code
 
 ![MDK](images/img1.png)
 ![MDK](images/img2.png)
@@ -14,3 +14,6 @@
 ![MDK](images/img12.png)
 ![MDK](images/img13.png)
 ![MDK](images/img14.png)
+
+## Próximo Passo:
+[Exercício 07 - Execução e Testes](/exercises/ex7/README.md)
